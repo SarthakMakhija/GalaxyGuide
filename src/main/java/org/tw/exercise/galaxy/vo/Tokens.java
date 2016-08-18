@@ -15,7 +15,7 @@ public class Tokens {
 
 	private Set<String>					ignoreableTokens 		= new HashSet<>();
 	
-	private static final String[] 		DFAULT_IGNOREABLE_TOKENS = new String[]{"is", "what", "why", "how", "the", "could", "then", "if", "much", "many", "you", "a", "are"};
+	private static final String[] 		DFAULT_IGNOREABLE_TOKENS = new String[]{"is", "what", "why", "how", "the", "could", "then", "if", "much", "many", "you", "a", "are", "where"};
 	
 	private static final String QUERY_IDENTIFIER = "?";
 	
