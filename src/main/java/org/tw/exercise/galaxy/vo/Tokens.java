@@ -17,7 +17,7 @@ public class Tokens {
 	
 	private static final String[] 		DFAULT_IGNOREABLE_TOKENS = new String[]{"is", "what", "why", "how", "the", "could", "then", "if", "much", "many", "you", "a", "are", "where"};
 	
-	private static final String QUERY_IDENTIFIER = "?";
+	private static final String QUERY_IDENTIFIER = "@";
 	
 	private static final QueryProcessor queryProcessor = new QueryProcessor();
 	
